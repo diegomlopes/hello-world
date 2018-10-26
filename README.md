@@ -2,5 +2,4 @@
 
 Hi Humans!
 
-Hubot here, I like swift (that's what I'm made of!)
-I've had tacos on the moon and find them far superior to Earth tacos.
+I'm a developer and I hope you like my codes :)
